@@ -6,7 +6,7 @@ permalink: /publications/
 - Reza Averly and Wei-Lun Chao <br/>
 Generalized Framework for OOD Detection from Model Perspective <br/>
 (Submitted) _International Conference on Machine Learning (ICML)_, 2023 <br/>
-[link](_pdf/ood_framework.pdf)
+[link](https://github.com/aplayly/aplayly.github.io/blob/main/_pdf/ood_framework.pdf)
 
 - Rahmat Mulyawan, Reza Averly, Infall Syafalni, Nana Sutisna, Trio Adiono <br/>
 Dynamic Pilot Allocation for Channel Estimation in High-Mobility OFDM Receiver <br/>
