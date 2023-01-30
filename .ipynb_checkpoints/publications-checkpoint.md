@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 ---
 - Reza Averly and Wei-Lun Chao <br/>
-Generalized Framework for OOD Detection from Model Perspective <br/>
+Out-Of-Distribution Detection From a Model-Specific Perspective <br/>
 (Submitted) _International Conference on Machine Learning (ICML)_, 2023 <br/>
 [Paper](https://github.com/aplayly/aplayly.github.io/blob/main/_pdf/ood_framework.pdf)
 
