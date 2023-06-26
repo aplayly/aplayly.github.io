@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 - Reza Averly and Wei-Lun Chao <br/>
 Unified Out-Of-Distribution Detection: A Model-Specific Perspective <br/>
-arXiv, 2023 <br/>
+Preprint, 2023 <br/>
 [Paper](https://arxiv.org/abs/2304.06813)
 
 - Rahmat Mulyawan, Reza Averly, Infall Syafalni, Nana Sutisna, Trio Adiono <br/>

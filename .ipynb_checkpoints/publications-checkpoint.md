@@ -4,9 +4,9 @@ title: "Publications"
 permalink: /publications/
 ---
 - Reza Averly and Wei-Lun Chao <br/>
-Out-Of-Distribution Detection From a Model-Specific Perspective <br/>
-(Submitted) _International Conference on Machine Learning (ICML)_, 2023 <br/>
-[Paper](https://github.com/aplayly/aplayly.github.io/blob/main/_pdf/ood_framework.pdf)
+Unified Out-Of-Distribution Detection: A Model-Specific Perspective <br/>
+Preprint, 2023 <br/>
+[Paper](https://arxiv.org/abs/2304.06813)
 
 - Rahmat Mulyawan, Reza Averly, Infall Syafalni, Nana Sutisna, Trio Adiono <br/>
 Dynamic Pilot Allocation for Channel Estimation in High-Mobility OFDM Receiver <br/>
