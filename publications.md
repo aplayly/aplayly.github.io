@@ -6,7 +6,7 @@ permalink: /publications/
 - Reza Averly and Wei-Lun Chao <br/>
 Unified Out-Of-Distribution Detection: A Model-Specific Perspective <br/>
 _International Conference on Computer Vision (ICCV)_, 2023 <br/>
-[Paper](https://arxiv.org/abs/2304.06813)
+[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Averly_Unified_Out-Of-Distribution_Detection_A_Model-Specific_Perspective_ICCV_2023_paper.pdf) | [arXiv](https://arxiv.org/abs/2304.06813) 
 
 - Rahmat Mulyawan, Reza Averly, Infall Syafalni, Nana Sutisna, Trio Adiono <br/>
 Dynamic Pilot Allocation for Channel Estimation in High-Mobility OFDM Receiver <br/>
